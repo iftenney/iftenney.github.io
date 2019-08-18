@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Patry | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/nicolas-patry/</link>
+      <atom:link href="https://iftenney.github.io/authors/nicolas-patry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Patry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Nicolas Patry</title>
+      <link>https://iftenney.github.io/authors/nicolas-patry/</link>
+    </image>
+    
+    <item>
+      <title>jiant 1.1: A software toolkit for research on general-purpose text understanding models</title>
+      <link>https://iftenney.github.io/publication/wang-2019-jiant/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/wang-2019-jiant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JD Bozek | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/jd-bozek/</link>
+      <atom:link href="https://iftenney.github.io/authors/jd-bozek/index.xml" rel="self" type="application/rss+xml" />
+    <description>JD Bozek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Mon, 23 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>JD Bozek</title>
+      <link>https://iftenney.github.io/authors/jd-bozek/</link>
+    </image>
+    
+    <item>
+      <title>Ultrafast X-ray Auger probing of photoexcited molecular dynamics</title>
+      <link>https://iftenney.github.io/publication/mcfarland-2014-ultrafast/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/mcfarland-2014-ultrafast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

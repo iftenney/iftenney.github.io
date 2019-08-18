@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Ian F Tenney** | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/ian-f-tenney/</link>
+      <atom:link href="https://iftenney.github.io/authors/ian-f-tenney/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Ian F Tenney**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Mon, 25 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>**Ian F Tenney**</title>
+      <link>https://iftenney.github.io/authors/ian-f-tenney/</link>
+    </image>
+    
+    <item>
+      <title>Collisional decoherence and rotational quasirevivals in asymmetric-top molecules</title>
+      <link>https://iftenney.github.io/publication/tenney-2016-collisional/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/tenney-2016-collisional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semicrystalline dihydroxyacetone copolymers derived from glycerol</title>
+      <link>https://iftenney.github.io/publication/simon-2012-semicrystalline/</link>
+      <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/simon-2012-semicrystalline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

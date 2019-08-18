@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Thomas McCoy | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/r-thomas-mccoy/</link>
+      <atom:link href="https://iftenney.github.io/authors/r-thomas-mccoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Thomas McCoy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Mon, 06 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>R Thomas McCoy</title>
+      <link>https://iftenney.github.io/authors/r-thomas-mccoy/</link>
+    </image>
+    
+    <item>
+      <title>What do you learn from context? Probing for sentence structure in contextualized word representations</title>
+      <link>https://iftenney.github.io/publication/tenney-2018-what/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/tenney-2018-what/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

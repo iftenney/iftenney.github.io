@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/iftenney/</link>
+      <atom:link href="https://iftenney.github.io/authors/iftenney/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Tenney</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Ian Tenney</title>
+      <link>https://iftenney.github.io/authors/iftenney/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manaal Faruqui | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/manaal-faruqui/</link>
+      <atom:link href="https://iftenney.github.io/authors/manaal-faruqui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manaal Faruqui</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Manaal Faruqui</title>
+      <link>https://iftenney.github.io/authors/manaal-faruqui/</link>
+    </image>
+    
+    <item>
+      <title>WikiAtomicEdits: A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse</title>
+      <link>https://iftenney.github.io/publication/faruqui-2018-wikiatomicedits/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/faruqui-2018-wikiatomicedits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

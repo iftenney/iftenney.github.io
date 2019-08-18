@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Tenney</title>
+    <link>https://iftenney.github.io/</link>
+      <atom:link href="https://iftenney.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Tenney</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Sat, 17 Aug 2019 06:36:36 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Ian Tenney</title>
+      <link>https://iftenney.github.io/</link>
+    </image>
+    
+    <item>
+      <title>BERT-by-layer</title>
+      <link>https://iftenney.github.io/project/bert-layer/</link>
+      <pubDate>Sat, 17 Aug 2019 06:36:36 +0000</pubDate>
+      <guid>https://iftenney.github.io/project/bert-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Probing</title>
+      <link>https://iftenney.github.io/project/edge-probing/</link>
+      <pubDate>Sat, 17 Aug 2019 06:20:10 +0000</pubDate>
+      <guid>https://iftenney.github.io/project/edge-probing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jiant 1.1: A software toolkit for research on general-purpose text understanding models</title>
+      <link>https://iftenney.github.io/publication/wang-2019-jiant/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/wang-2019-jiant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BERT Rediscovers the Classical NLP Pipeline</title>
+      <link>https://iftenney.github.io/publication/tenney-2019-bert/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/tenney-2019-bert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling</title>
+      <link>https://iftenney.github.io/publication/wang-2019-can/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/wang-2019-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing What Different NLP Tasks Teach Machines about Function Word Comprehension</title>
+      <link>https://iftenney.github.io/publication/kim-2019-probing/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/kim-2019-probing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do you learn from context? Probing for sentence structure in contextualized word representations</title>
+      <link>https://iftenney.github.io/publication/tenney-2018-what/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/tenney-2018-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WikiAtomicEdits: A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse</title>
+      <link>https://iftenney.github.io/publication/faruqui-2018-wikiatomicedits/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/faruqui-2018-wikiatomicedits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collisional decoherence and rotational quasirevivals in asymmetric-top molecules</title>
+      <link>https://iftenney.github.io/publication/tenney-2016-collisional/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/tenney-2016-collisional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafast isomerization initiated by X-ray core ionization</title>
+      <link>https://iftenney.github.io/publication/liekhus-2015-ultrafast/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/liekhus-2015-ultrafast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrafast X-ray Auger probing of photoexcited molecular dynamics</title>
+      <link>https://iftenney.github.io/publication/mcfarland-2014-ultrafast/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/mcfarland-2014-ultrafast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semicrystalline dihydroxyacetone copolymers derived from glycerol</title>
+      <link>https://iftenney.github.io/publication/simon-2012-semicrystalline/</link>
+      <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/simon-2012-semicrystalline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

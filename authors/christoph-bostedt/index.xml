@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Bostedt | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/christoph-bostedt/</link>
+      <atom:link href="https://iftenney.github.io/authors/christoph-bostedt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Bostedt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 10 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Christoph Bostedt</title>
+      <link>https://iftenney.github.io/authors/christoph-bostedt/</link>
+    </image>
+    
+    <item>
+      <title>Ultrafast isomerization initiated by X-ray core ionization</title>
+      <link>https://iftenney.github.io/publication/liekhus-2015-ultrafast/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/liekhus-2015-ultrafast/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

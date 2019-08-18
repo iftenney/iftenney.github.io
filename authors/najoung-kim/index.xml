@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Najoung Kim | Ian Tenney</title>
+    <link>https://iftenney.github.io/authors/najoung-kim/</link>
+      <atom:link href="https://iftenney.github.io/authors/najoung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Najoung Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Najoung Kim</title>
+      <link>https://iftenney.github.io/authors/najoung-kim/</link>
+    </image>
+    
+    <item>
+      <title>jiant 1.1: A software toolkit for research on general-purpose text understanding models</title>
+      <link>https://iftenney.github.io/publication/wang-2019-jiant/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/wang-2019-jiant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling</title>
+      <link>https://iftenney.github.io/publication/wang-2019-can/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/wang-2019-can/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing What Different NLP Tasks Teach Machines about Function Word Comprehension</title>
+      <link>https://iftenney.github.io/publication/kim-2019-probing/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/kim-2019-probing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do you learn from context? Probing for sentence structure in contextualized word representations</title>
+      <link>https://iftenney.github.io/publication/tenney-2018-what/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://iftenney.github.io/publication/tenney-2018-what/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

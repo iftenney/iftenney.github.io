@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ian Tenney</title>
+    <link>https://iftenney.github.io/project/</link>
+      <atom:link href="https://iftenney.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Sat, 17 Aug 2019 06:36:36 +0000</lastBuildDate>
+    <image>
+      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>https://iftenney.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>BERT-by-layer</title>
+      <link>https://iftenney.github.io/project/bert-layer/</link>
+      <pubDate>Sat, 17 Aug 2019 06:36:36 +0000</pubDate>
+      <guid>https://iftenney.github.io/project/bert-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edge Probing</title>
+      <link>https://iftenney.github.io/project/edge-probing/</link>
+      <pubDate>Sat, 17 Aug 2019 06:20:10 +0000</pubDate>
+      <guid>https://iftenney.github.io/project/edge-probing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

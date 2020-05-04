@@ -2,29 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katherin Yu | Ian Tenney</title>
-    <link>https://iftenney.github.io/authors/katherin-yu/</link>
-      <atom:link href="https://iftenney.github.io/authors/katherin-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/katherin-yu/</link>
+      <atom:link href="/authors/katherin-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherin Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Katherin Yu</title>
-      <link>https://iftenney.github.io/authors/katherin-yu/</link>
+      <link>/authors/katherin-yu/</link>
     </image>
     
     <item>
-      <title>jiant 1.1: A software toolkit for research on general-purpose text understanding models</title>
-      <link>https://iftenney.github.io/publication/wang-2019-jiant/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/wang-2019-jiant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling</title>
-      <link>https://iftenney.github.io/publication/wang-2019-can/</link>
+      <link>/publication/wang-2019-can/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/wang-2019-can/</guid>
+      <guid>/publication/wang-2019-can/</guid>
       <description></description>
     </item>
     

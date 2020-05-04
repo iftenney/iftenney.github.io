@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dipanjan Das | Ian Tenney</title>
-    <link>https://iftenney.github.io/authors/dipanjan-das/</link>
-      <atom:link href="https://iftenney.github.io/authors/dipanjan-das/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/dipanjan-das/</link>
+      <atom:link href="/authors/dipanjan-das/index.xml" rel="self" type="application/rss+xml" />
     <description>Dipanjan Das</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Sun, 28 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Dipanjan Das</title>
-      <link>https://iftenney.github.io/authors/dipanjan-das/</link>
+      <link>/authors/dipanjan-das/</link>
     </image>
     
     <item>
       <title>BERT Rediscovers the Classical NLP Pipeline</title>
-      <link>https://iftenney.github.io/publication/tenney-2019-bert/</link>
+      <link>/publication/tenney-2019-bert/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/tenney-2019-bert/</guid>
+      <guid>/publication/tenney-2019-bert/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What do you learn from context? Probing for sentence structure in contextualized word representations</title>
-      <link>https://iftenney.github.io/publication/tenney-2018-what/</link>
+      <link>/publication/tenney-2018-what/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/tenney-2018-what/</guid>
+      <guid>/publication/tenney-2018-what/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WikiAtomicEdits: A Multilingual Corpus of Wikipedia Edits for Modeling Language and Discourse</title>
-      <link>https://iftenney.github.io/publication/faruqui-2018-wikiatomicedits/</link>
+      <link>/publication/faruqui-2018-wikiatomicedits/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/faruqui-2018-wikiatomicedits/</guid>
+      <guid>/publication/faruqui-2018-wikiatomicedits/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>**Ian F. Tenney** | Ian Tenney</title>
-    <link>https://iftenney.github.io/authors/ian-f.-tenney/</link>
-      <atom:link href="https://iftenney.github.io/authors/ian-f.-tenney/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ian-f.-tenney/</link>
+      <atom:link href="/authors/ian-f.-tenney/index.xml" rel="self" type="application/rss+xml" />
     <description>**Ian F. Tenney**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>**Ian F. Tenney**</title>
-      <link>https://iftenney.github.io/authors/ian-f.-tenney/</link>
+      <link>/authors/ian-f.-tenney/</link>
     </image>
     
     <item>
       <title>jiant 1.1: A software toolkit for research on general-purpose text understanding models</title>
-      <link>https://iftenney.github.io/publication/wang-2019-jiant/</link>
+      <link>/publication/wang-2019-jiant/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/wang-2019-jiant/</guid>
+      <guid>/publication/wang-2019-jiant/</guid>
       <description></description>
     </item>
     

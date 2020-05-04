@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philip H Bucksbaum | Ian Tenney</title>
-    <link>https://iftenney.github.io/authors/philip-h-bucksbaum/</link>
-      <atom:link href="https://iftenney.github.io/authors/philip-h-bucksbaum/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/philip-h-bucksbaum/</link>
+      <atom:link href="/authors/philip-h-bucksbaum/index.xml" rel="self" type="application/rss+xml" />
     <description>Philip H Bucksbaum</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Mon, 25 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Mon, 25 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Philip H Bucksbaum</title>
-      <link>https://iftenney.github.io/authors/philip-h-bucksbaum/</link>
+      <link>/authors/philip-h-bucksbaum/</link>
     </image>
     
     <item>
       <title>Collisional decoherence and rotational quasirevivals in asymmetric-top molecules</title>
-      <link>https://iftenney.github.io/publication/tenney-2016-collisional/</link>
+      <link>/publication/tenney-2016-collisional/</link>
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/tenney-2016-collisional/</guid>
+      <guid>/publication/tenney-2016-collisional/</guid>
       <description></description>
     </item>
     

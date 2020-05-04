@@ -2,21 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0 | Ian Tenney</title>
-    <link>https://iftenney.github.io/publication_types/0/</link>
-      <atom:link href="https://iftenney.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/0/</link>
+      <atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>0</title>
-      <link>https://iftenney.github.io/publication_types/0/</link>
+      <link>/publication_types/0/</link>
     </image>
     
     <item>
-      <title>jiant 1.1: A software toolkit for research on general-purpose text understanding models</title>
-      <link>https://iftenney.github.io/publication/wang-2019-jiant/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/wang-2019-jiant/</guid>
+      <title>Asking without Telling: Exploring Latent Ontologies in Contextual Representations</title>
+      <link>/publication/michael-2020-asking/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/michael-2020-asking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Happens To BERT Embeddings During Fine-tuning?</title>
+      <link>/publication/merchant-2020-happens/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/merchant-2020-happens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models</title>
+      <link>/publication/pruksachatkun-2020-jiant/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pruksachatkun-2020-jiant/</guid>
       <description></description>
     </item>
     

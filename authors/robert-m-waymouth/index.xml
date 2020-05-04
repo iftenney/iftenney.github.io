@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert M Waymouth | Ian Tenney</title>
-    <link>https://iftenney.github.io/authors/robert-m-waymouth/</link>
-      <atom:link href="https://iftenney.github.io/authors/robert-m-waymouth/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/robert-m-waymouth/</link>
+      <atom:link href="/authors/robert-m-waymouth/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert M Waymouth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Wed, 21 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 21 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Robert M Waymouth</title>
-      <link>https://iftenney.github.io/authors/robert-m-waymouth/</link>
+      <link>/authors/robert-m-waymouth/</link>
     </image>
     
     <item>
       <title>Semicrystalline dihydroxyacetone copolymers derived from glycerol</title>
-      <link>https://iftenney.github.io/publication/simon-2012-semicrystalline/</link>
+      <link>/publication/simon-2012-semicrystalline/</link>
       <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/publication/simon-2012-semicrystalline/</guid>
+      <guid>/publication/simon-2012-semicrystalline/</guid>
       <description></description>
     </item>
     

@@ -2,518 +2,502 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Ian Tenney</title>
-    <link>https://iftenney.github.io/authors/</link>
-      <atom:link href="https://iftenney.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Ian Tenney</copyright><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iftenney.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://iftenney.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
-      <title>**Ian F. Tenney**</title>
-      <link>https://iftenney.github.io/authors/ian-f.-tenney/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/ian-f.-tenney/</guid>
+      <title>**Ian Tenney**</title>
+      <link>/authors/ian-tenney/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ian-tenney/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alex Wang</title>
-      <link>https://iftenney.github.io/authors/alex-wang/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/alex-wang/</guid>
+      <title>Amil Merchant</title>
+      <link>/authors/amil-merchant/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/amil-merchant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>and Anhad Mohananey</title>
-      <link>https://iftenney.github.io/authors/and-anhad-mohananey/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/and-anhad-mohananey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Berlin Chen</title>
-      <link>https://iftenney.github.io/authors/berlin-chen/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/berlin-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edouard Grave</title>
-      <link>https://iftenney.github.io/authors/edouard-grave/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/edouard-grave/</guid>
+      <title>Elahe Rahimtoroghi</title>
+      <link>/authors/elahe-rahimtoroghi/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/elahe-rahimtoroghi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ellie Pavlick</title>
-      <link>https://iftenney.github.io/authors/ellie-pavlick/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/ellie-pavlick/</guid>
+      <link>/authors/ellie-pavlick/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/ellie-pavlick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan A. Botha</title>
+      <link>/authors/jan-a.-botha/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jan-a.-botha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Michael</title>
+      <link>/authors/julian-michael/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/julian-michael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Wang</title>
+      <link>/authors/alex-wang/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alex-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haokun Liu</title>
-      <link>https://iftenney.github.io/authors/haokun-liu/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/haokun-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jan Hula</title>
-      <link>https://iftenney.github.io/authors/jan-hula/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/jan-hula/</guid>
+      <link>/authors/haokun-liu/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/haokun-liu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jason Phang</title>
-      <link>https://iftenney.github.io/authors/jason-phang/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/jason-phang/</guid>
+      <link>/authors/jason-phang/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jason-phang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Katherin Yu</title>
-      <link>https://iftenney.github.io/authors/katherin-yu/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/katherin-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Najoung Kim</title>
-      <link>https://iftenney.github.io/authors/najoung-kim/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/najoung-kim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicolas Patry</title>
-      <link>https://iftenney.github.io/authors/nicolas-patry/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/nicolas-patry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nikita Nangia</title>
-      <link>https://iftenney.github.io/authors/nikita-nangia/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/nikita-nangia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patrick Xia</title>
-      <link>https://iftenney.github.io/authors/patrick-xia/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/patrick-xia/</guid>
+      <title>Phil Yeres</title>
+      <link>/authors/phil-yeres/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/phil-yeres/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phu Mon Htut</title>
-      <link>https://iftenney.github.io/authors/phu-mon-htut/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/phu-mon-htut/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R. Thomas McCoy</title>
-      <link>https://iftenney.github.io/authors/r.-thomas-mccoy/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/r.-thomas-mccoy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raghu Pappagari</title>
-      <link>https://iftenney.github.io/authors/raghu-pappagari/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/raghu-pappagari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roma Patel</title>
-      <link>https://iftenney.github.io/authors/roma-patel/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/roma-patel/</guid>
+      <link>/authors/phu-mon-htut/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/phu-mon-htut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samuel R. Bowman</title>
-      <link>https://iftenney.github.io/authors/samuel-r.-bowman/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/samuel-r.-bowman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shikha Bordia</title>
-      <link>https://iftenney.github.io/authors/shikha-bordia/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/shikha-bordia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shuning Jin</title>
-      <link>https://iftenney.github.io/authors/shuning-jin/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/shuning-jin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thibault Févry</title>
-      <link>https://iftenney.github.io/authors/thibault-fevry/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/thibault-fevry/</guid>
+      <link>/authors/samuel-r.-bowman/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/samuel-r.-bowman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yada Pruksachatkun</title>
-      <link>https://iftenney.github.io/authors/yada-pruksachatkun/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/yada-pruksachatkun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yinghui Huang</title>
-      <link>https://iftenney.github.io/authors/yinghui-huang/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/yinghui-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Ian Tenney**</title>
-      <link>https://iftenney.github.io/authors/ian-tenney/</link>
-      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/ian-tenney/</guid>
+      <link>/authors/yada-pruksachatkun/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/yada-pruksachatkun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benjamin Van Durme</title>
-      <link>https://iftenney.github.io/authors/benjamin-van-durme/</link>
+      <link>/authors/benjamin-van-durme/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/benjamin-van-durme/</guid>
+      <guid>/authors/benjamin-van-durme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin Chen</title>
+      <link>/authors/berlin-chen/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/berlin-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dipanjan Das</title>
-      <link>https://iftenney.github.io/authors/dipanjan-das/</link>
+      <link>/authors/dipanjan-das/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/dipanjan-das/</guid>
+      <guid>/authors/dipanjan-das/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edouard Grave</title>
+      <link>/authors/edouard-grave/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/edouard-grave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jan Hula</title>
+      <link>/authors/jan-hula/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jan-hula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katherin Yu</title>
+      <link>/authors/katherin-yu/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/katherin-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Najoung Kim</title>
+      <link>/authors/najoung-kim/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/najoung-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Xia</title>
+      <link>/authors/patrick-xia/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/patrick-xia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Thomas McCoy</title>
+      <link>/authors/r.-thomas-mccoy/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-thomas-mccoy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raghavendra Pappagari</title>
-      <link>https://iftenney.github.io/authors/raghavendra-pappagari/</link>
+      <link>/authors/raghavendra-pappagari/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/raghavendra-pappagari/</guid>
+      <guid>/authors/raghavendra-pappagari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roma Patel</title>
+      <link>/authors/roma-patel/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/roma-patel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuning Jin</title>
+      <link>/authors/shuning-jin/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/shuning-jin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yinghui Huang</title>
+      <link>/authors/yinghui-huang/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yinghui-huang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Poliak</title>
-      <link>https://iftenney.github.io/authors/adam-poliak/</link>
+      <link>/authors/adam-poliak/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/adam-poliak/</guid>
+      <guid>/authors/adam-poliak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexis Ross</title>
-      <link>https://iftenney.github.io/authors/alexis-ross/</link>
+      <link>/authors/alexis-ross/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/alexis-ross/</guid>
+      <guid>/authors/alexis-ross/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tal Linzen</title>
-      <link>https://iftenney.github.io/authors/tal-linzen/</link>
+      <link>/authors/tal-linzen/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/tal-linzen/</guid>
+      <guid>/authors/tal-linzen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Thomas McCoy</title>
-      <link>https://iftenney.github.io/authors/r-thomas-mccoy/</link>
+      <link>/authors/r-thomas-mccoy/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/r-thomas-mccoy/</guid>
+      <guid>/authors/r-thomas-mccoy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sam Bowman</title>
-      <link>https://iftenney.github.io/authors/sam-bowman/</link>
+      <link>/authors/sam-bowman/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/sam-bowman/</guid>
+      <guid>/authors/sam-bowman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manaal Faruqui</title>
-      <link>https://iftenney.github.io/authors/manaal-faruqui/</link>
+      <link>/authors/manaal-faruqui/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/manaal-faruqui/</guid>
+      <guid>/authors/manaal-faruqui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>**Ian F Tenney**</title>
-      <link>https://iftenney.github.io/authors/ian-f-tenney/</link>
+      <link>/authors/ian-f-tenney/</link>
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/ian-f-tenney/</guid>
+      <guid>/authors/ian-f-tenney/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maxim Artamonov</title>
-      <link>https://iftenney.github.io/authors/maxim-artamonov/</link>
+      <link>/authors/maxim-artamonov/</link>
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/maxim-artamonov/</guid>
+      <guid>/authors/maxim-artamonov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philip H Bucksbaum</title>
-      <link>https://iftenney.github.io/authors/philip-h-bucksbaum/</link>
+      <link>/authors/philip-h-bucksbaum/</link>
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/philip-h-bucksbaum/</guid>
+      <guid>/authors/philip-h-bucksbaum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tamar Seideman</title>
-      <link>https://iftenney.github.io/authors/tamar-seideman/</link>
+      <link>/authors/tamar-seideman/</link>
       <pubDate>Mon, 25 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/tamar-seideman/</guid>
+      <guid>/authors/tamar-seideman/</guid>
       <description></description>
     </item>
     
     <item>
       <title> et al.</title>
-      <link>https://iftenney.github.io/authors/et-al./</link>
+      <link>/authors/et-al./</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/et-al./</guid>
+      <guid>/authors/et-al./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alvaro Sanchez-Gonzalez</title>
-      <link>https://iftenney.github.io/authors/alvaro-sanchez-gonzalez/</link>
+      <link>/authors/alvaro-sanchez-gonzalez/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/alvaro-sanchez-gonzalez/</guid>
+      <guid>/authors/alvaro-sanchez-gonzalez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cedric Bomme</title>
-      <link>https://iftenney.github.io/authors/cedric-bomme/</link>
+      <link>/authors/cedric-bomme/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/cedric-bomme/</guid>
+      <guid>/authors/cedric-bomme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chelsea E Liekhus-Schmaltz</title>
-      <link>https://iftenney.github.io/authors/chelsea-e-liekhus-schmaltz/</link>
+      <link>/authors/chelsea-e-liekhus-schmaltz/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/chelsea-e-liekhus-schmaltz/</guid>
+      <guid>/authors/chelsea-e-liekhus-schmaltz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christoph Bostedt</title>
-      <link>https://iftenney.github.io/authors/christoph-bostedt/</link>
+      <link>/authors/christoph-bostedt/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/christoph-bostedt/</guid>
+      <guid>/authors/christoph-bostedt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John D Bozek</title>
-      <link>https://iftenney.github.io/authors/john-d-bozek/</link>
+      <link>/authors/john-d-bozek/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/john-d-bozek/</guid>
+      <guid>/authors/john-d-bozek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nora Berrah</title>
-      <link>https://iftenney.github.io/authors/nora-berrah/</link>
+      <link>/authors/nora-berrah/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/nora-berrah/</guid>
+      <guid>/authors/nora-berrah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rebecca Boll</title>
-      <link>https://iftenney.github.io/authors/rebecca-boll/</link>
+      <link>/authors/rebecca-boll/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/rebecca-boll/</guid>
+      <guid>/authors/rebecca-boll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sebastian Carron</title>
-      <link>https://iftenney.github.io/authors/sebastian-carron/</link>
+      <link>/authors/sebastian-carron/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/sebastian-carron/</guid>
+      <guid>/authors/sebastian-carron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Timur Osipov</title>
-      <link>https://iftenney.github.io/authors/timur-osipov/</link>
+      <link>/authors/timur-osipov/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/timur-osipov/</guid>
+      <guid>/authors/timur-osipov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Aguilar</title>
-      <link>https://iftenney.github.io/authors/a-aguilar/</link>
+      <link>/authors/a-aguilar/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/a-aguilar/</guid>
+      <guid>/authors/a-aguilar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BK McFarland</title>
-      <link>https://iftenney.github.io/authors/bk-mcfarland/</link>
+      <link>/authors/bk-mcfarland/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/bk-mcfarland/</guid>
+      <guid>/authors/bk-mcfarland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C Bostedt</title>
-      <link>https://iftenney.github.io/authors/c-bostedt/</link>
+      <link>/authors/c-bostedt/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/c-bostedt/</guid>
+      <guid>/authors/c-bostedt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>F Tarantelli</title>
-      <link>https://iftenney.github.io/authors/f-tarantelli/</link>
+      <link>/authors/f-tarantelli/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/f-tarantelli/</guid>
+      <guid>/authors/f-tarantelli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JC Castagna</title>
-      <link>https://iftenney.github.io/authors/jc-castagna/</link>
+      <link>/authors/jc-castagna/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/jc-castagna/</guid>
+      <guid>/authors/jc-castagna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JD Bozek</title>
-      <link>https://iftenney.github.io/authors/jd-bozek/</link>
+      <link>/authors/jd-bozek/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/jd-bozek/</guid>
+      <guid>/authors/jd-bozek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JP Farrell</title>
-      <link>https://iftenney.github.io/authors/jp-farrell/</link>
+      <link>/authors/jp-farrell/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/jp-farrell/</guid>
+      <guid>/authors/jp-farrell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>N Berrah</title>
-      <link>https://iftenney.github.io/authors/n-berrah/</link>
+      <link>/authors/n-berrah/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/n-berrah/</guid>
+      <guid>/authors/n-berrah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PH Bucksbaum</title>
-      <link>https://iftenney.github.io/authors/ph-bucksbaum/</link>
+      <link>/authors/ph-bucksbaum/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/ph-bucksbaum/</guid>
+      <guid>/authors/ph-bucksbaum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S Miyabe</title>
-      <link>https://iftenney.github.io/authors/s-miyabe/</link>
+      <link>/authors/s-miyabe/</link>
       <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/s-miyabe/</guid>
+      <guid>/authors/s-miyabe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hyunuk Kim</title>
-      <link>https://iftenney.github.io/authors/hyunuk-kim/</link>
+      <link>/authors/hyunuk-kim/</link>
       <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/hyunuk-kim/</guid>
+      <guid>/authors/hyunuk-kim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeff Simon</title>
-      <link>https://iftenney.github.io/authors/jeff-simon/</link>
+      <link>/authors/jeff-simon/</link>
       <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/jeff-simon/</guid>
+      <guid>/authors/jeff-simon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Johan V Olsson</title>
-      <link>https://iftenney.github.io/authors/johan-v-olsson/</link>
+      <link>/authors/johan-v-olsson/</link>
       <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/johan-v-olsson/</guid>
+      <guid>/authors/johan-v-olsson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert M Waymouth</title>
-      <link>https://iftenney.github.io/authors/robert-m-waymouth/</link>
+      <link>/authors/robert-m-waymouth/</link>
       <pubDate>Wed, 21 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/robert-m-waymouth/</guid>
+      <guid>/authors/robert-m-waymouth/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://iftenney.github.io/authors/iftenney/</link>
+      <link>/authors/iftenney/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://iftenney.github.io/authors/iftenney/</guid>
-      <description>&lt;p&gt;I am a software engineer on the &lt;a href=&#34;https://ai.google/research/teams/language/&#34; target=&#34;_blank&#34;&gt;Language team&lt;/a&gt; at Google Research in Mountain View. My research focuses on understanding and interpretability of neural language representations (a.k.a. &amp;ldquo;&lt;a href=&#34;https://twitter.com/tallinzen/status/1139514475147649026&#34; target=&#34;_blank&#34;&gt;BERTology&lt;/a&gt;&amp;rdquo;). I’m interested in how these models encode linguistic structure, the geometry of the representation space, and how unsupervised objectives like language modeling give rise to complex reasoning.&lt;/p&gt;
+      <guid>/authors/iftenney/</guid>
+      <description>&lt;p&gt;I am a software engineer on the &lt;a href=&#34;https://ai.google/research/teams/language/&#34; target=&#34;_blank&#34;&gt;Language team&lt;/a&gt; at Google Research in Mountain View. My research focuses on understanding and interpretability of neural language representations (a.k.a. &amp;ldquo;&lt;a href=&#34;https://twitter.com/tallinzen/status/1139514475147649026&#34; target=&#34;_blank&#34;&gt;BERTology&lt;/a&gt;&amp;rdquo;). I’m interested in how these models encode linguistic structure, how these structures develop, and what they can tell us about model behavior and robustness.&lt;/p&gt;
 
 &lt;p&gt;In 2018, I was a Senior Researcher on the &lt;a href=&#34;https://jsalt18-sentence-repl.github.io/&#34; target=&#34;_blank&#34;&gt;Sentence Representation Learning Team&lt;/a&gt; as part of the &lt;a href=&#34;https://www.clsp.jhu.edu/workshops/18-workshop/&#34; target=&#34;_blank&#34;&gt;2018 JSALT workshop&lt;/a&gt; at Johns Hopkins University. Among other things, I took this &lt;a href=&#34;jsalt-cookies.jpg&#34; target=&#34;_blank&#34;&gt;terrible group photo&lt;/a&gt;.&lt;/p&gt;
 

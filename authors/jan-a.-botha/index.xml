@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan A. Botha | Ian Tenney</title>
+    <link>/authors/jan-a.-botha/</link>
+      <atom:link href="/authors/jan-a.-botha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan A. Botha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jan A. Botha</title>
+      <link>/authors/jan-a.-botha/</link>
+    </image>
+    
+    <item>
+      <title>Asking without Telling: Exploring Latent Ontologies in Contextual Representations</title>
+      <link>/publication/michael-2020-asking/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/michael-2020-asking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

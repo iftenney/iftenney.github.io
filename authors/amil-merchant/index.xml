@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amil Merchant | Ian Tenney</title>
+    <link>/authors/amil-merchant/</link>
+      <atom:link href="/authors/amil-merchant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amil Merchant</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Amil Merchant</title>
+      <link>/authors/amil-merchant/</link>
+    </image>
+    
+    <item>
+      <title>What Happens To BERT Embeddings During Fine-tuning?</title>
+      <link>/publication/merchant-2020-happens/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/merchant-2020-happens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

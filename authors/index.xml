@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Ian Tenney</copyright><lastBuildDate>Wed, 04 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,48 +15,8 @@
     <item>
       <title>**Ian Tenney**</title>
       <link>/authors/ian-tenney/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/authors/ian-tenney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amil Merchant</title>
-      <link>/authors/amil-merchant/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/amil-merchant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Elahe Rahimtoroghi</title>
-      <link>/authors/elahe-rahimtoroghi/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/elahe-rahimtoroghi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ellie Pavlick</title>
-      <link>/authors/ellie-pavlick/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/ellie-pavlick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jan A. Botha</title>
-      <link>/authors/jan-a.-botha/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/jan-a.-botha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julian Michael</title>
-      <link>/authors/julian-michael/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/julian-michael/</guid>
       <description></description>
     </item>
     
@@ -145,6 +105,14 @@
       <link>/authors/edouard-grave/</link>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/edouard-grave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellie Pavlick</title>
+      <link>/authors/ellie-pavlick/</link>
+      <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ellie-pavlick/</guid>
       <description></description>
     </item>
     

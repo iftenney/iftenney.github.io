@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Ian  Tenney</title>
+<title>Ian  Tenney | Probing and BERTology</title>
 <meta name="description" content="Ian Tenney's personal website.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/">
+<link rel="canonical" href="/projects/bertology/">
 
 <!-- Theming-->
 
@@ -63,26 +63,12 @@
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
     <div class="container">
       
-        <!-- Social Icons -->
-        <div class="row ml-1 ml-sm-0">
-          <span class="contact-icon text-center">
-  
-  <a href="https://twitter.com/iftenney" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
-  
-  <a href="https://scholar.google.com/citations?user=7WntHrAAAAAJ" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-  
-  
-  <a href="https://github.com/iftenney" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
-  <a href="https://www.linkedin.com/in/iftenney" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
-  
-  
-  
-  
-  
-  <a href="https://research.google/people/IanTenney" target="_blank" title="Google Research"><i class="fab fa-google"></i></a>
-</span>
+      <a class="navbar-brand title font-weight-lighter" href="/">
+        
+  <span class="first-name">Ian</span>  <span class="last-name">Tenney</span>
 
-        </div>
+
+      </a>
       
       <!-- Navbar Toogle -->
       <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -94,11 +80,9 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/">
               about
-              
-                <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -154,111 +138,154 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">
-      
-  <span class="first-name">Ian</span>  <span class="last-name">Tenney</span>
-
-
-    </h1>
-     <p class="desc"></p>
+    <h1 class="post-title">Probing and BERTology</h1>
+    <p class="post-description">Understanding linguistic structure in pre-trained language models, such as ELMo and BERT.</p>
   </header>
 
   <article>
+    <p>Pre-trained language models have led to dramatic advancements in NLP capability in recent years, handily outperforming pipelined systems and non-contextual embeddings on most common tasks. What makes them so powerful? As a model like <a href="https://arxiv.org/abs/1810.04805">BERT</a> learns to fill in blanks or predict the next word, what kind of linguistic or world knowledge does it acquire? How is this information organized: does the model learn the same rules a human might, or develop it’s own idiosyncratic understanding? And: how is this information used, if such a model is asked to classify text, answer questions, or perform other downstream NLP tasks?</p>
+
+<p>For an excellent primer on what we do - and don’t - know in this space, also see <a href="https://www.mitpressjournals.org/doi/abs/10.1162/tacl_a_00349">A Primer in BERTology: What We Know About How BERT Works</a> (Rogers et al. 2020).</p>
+
+<div class="publications">
+  <ol class="bibliography"><li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
     
-    <div class="profile float-left">
-      
-        <img class="img-fluid z-depth-1 rounded" src="/assets/img/iftenney.jpg">
-      
-      
-    </div>
+      <img class="img-thumbnail" src="/assets/img/lsl-figure1.png" alt="Asking without Telling: Exploring Latent Ontologies in Contextual Representations" />
     
-
-    <div class="clearfix main-text-content">
-      <p>I am a software engineer on the <a href="https://ai.google/research/teams/language/">Language team</a> at Google Research. My research focuses on interpretability and analysis of deep NLP models (a.k.a. “<a href="https://twitter.com/tallinzen/status/1139514475147649026">BERTology</a>”). I’m interested in how these models encode linguistic structure, how these structures develop, and what they can tell us about model behavior and robustness. I’m also interested in the practical workflow of interpretability: how does the way we interact with these models inform our own mental models of how they work?</p>
-
-<p>I’m one of the tech leads for the <a href="https://pair-code.github.io/lit/">Language Interpretability Tool <span class="nobreak">(<img src="/assets/img/fire_emoji.png" />LIT)</span></a>.</p>
-
-<p>I am based in Seattle, but collaborate with researchers across many sites, including Google’s <a href="https://pair.withgoogle.com/">People + AI Research</a> and the <a href="https://lunar.cs.brown.edu/">LUNAR group</a> at Brown.</p>
-
-<p>In 2018, I was a Senior Researcher on the <a href="https://jsalt18-sentence-repl.github.io/">Sentence Representation Learning Team</a> as part of the <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">2018 JSALT workshop</a> at Johns Hopkins University. Among other things, I took this <a href="https://jsalt18-sentence-repl.github.io/group.jpg">terrible group photo</a>.</p>
-
-<p>From 2016 to 2018, I taught <a href="https://www.ischool.berkeley.edu/courses/datasci/266">Data Science W266: Natural Language Processing with Deep Learning</a> at UC Berkeley School of Information.</p>
-
-<p>In a past life, I was a physicist, studying ultrafast molecular and optical physics in the lab of <a href="https://web.stanford.edu/dept/app-physics/cgi-bin/person/bucksbaum-philip-h/">Philip H. Bucksbaum</a> at <a href="https://ultrafast.stanford.edu/">Stanford / SLAC</a>.</p>
-
-<p>Contact: <code class="language-plaintext highlighter-rouge">"if" + lastname + "@gmail.com"</code></p>
-
-    </div>
-
-    
-
-    <div class="projects">
-      <h2>projects</h2>
-      <div class="projects">
-  <!-- <div class='row'> -->
-  <div class="card-deck">
-
-  
-  
-    <div class="card hoverable">
-      
-      <a href="https://pair-code.github.io/lit/" target="_blank">
-      
-      
-      <img src="/assets/img/lit-660.gif" alt="project thumbnail" class="card-img-top">
-      
-      <div class="card-body">
-        <h2 class="card-title">The Language Interpretability Tool <span class='nobreak'>(<img src="/assets/img/fire_emoji.png">LIT)</span></h2>
-        <p class="card-text">An open-source platform for visualization and understanding of NLP models.</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-        </div>
-      </div>
-      </a>
-    </div>
-  
-    <div class="card hoverable">
-      
-      <a href="/projects/bertology/">
-      
-      
-      <img src="/assets/img/bertology-16x9.png" alt="project thumbnail" class="card-img-top">
-      
-      <div class="card-body">
-        <h2 class="card-title">Probing and BERTology</h2>
-        <p class="card-text">Understanding linguistic structure in pre-trained language models, such as ELMo and BERT.</p>
-        <div class="row ml-1 mr-1 p-0">
-          
-        </div>
-      </div>
-      </a>
-    </div>
-  
-
-  </div>
-  <!-- </div> -->
-</div>
-
-    </div>
-
-    
-      <div class="publications">
-  <h2>selected publications</h2>
-  <ol class="bibliography"><li><div class="row">
-  <div class="col-sm-2 abbr">
-  
-    
-    <abbr class="badge"><a href="https://www.aclweb.org/anthology/2020.emnlp-demos.15" target="_blank">EMNLP</a></abbr>
-    
-  
   </div>
 
-  <div id="tenney2020lit" class="col-sm-8">
+  <div id="michael2020asking" class="col-sm-8">
     
       
-        <a href="https://arxiv.org/pdf/2008.05122.pdf" target="_blank"><div class="title">The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models</div></a>
+        <a href="https://arxiv.org/pdf/2004.14513.pdf" target="_blank"><div class="title">Asking without Telling: Exploring Latent Ontologies in Contextual Representations</div></a>
       
       <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Julian Michael,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Jan A. Botha,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                and <em>Ian Tenney</em>
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), </em>
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2004.14513" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
+    
+      
+      <a href="https://www.aclweb.org/anthology/2020.emnlp-main.552" class="btn btn-sm z-depth-0" role="button" target="_blank">EMNLP 2020</a>
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>The success of pretrained contextual encoders, such as ELMo and BERT, has brought a great deal of interest in what these models learn: do they, without explicit supervision, learn to encode meaningful notions of linguistic structure? If so, how is this structure encoded? To investigate this, we introduce latent subclass learning (LSL): a modification to classifier-based probing that induces a latent categorization (or ontology) of the probe’s inputs. Without access to fine-grained gold labels, LSL extracts emergent structure from input representations in an interpretable and quantifiable form. In experiments, we find strong evidence of familiar categories, such as a notion of personhood in ELMo, as well as novel ontological distinctions, such as a preference for fine-grained semantic roles on core arguments. Our results provide unique new evidence of emergent structure in pretrained encoders, including departures from existing annotations which are inaccessible to earlier methods.</p>
+    </div>
+    
+  </div>
+</div>
+</li>
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
+    
+      <img class="img-thumbnail" src="/assets/img/scales-figure1.png" alt="Do Language Embeddings capture Scales?" />
+    
+  </div>
+
+  <div id="zhang2020scales" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2010.05345.pdf" target="_blank"><div class="title">Do Language Embeddings capture Scales?</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Xikun Zhang,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Deepak Ramachandran,
+                
+              
+            
+          
         
           <!--  -->
           
@@ -280,7 +307,7 @@
             
               
                 
-                  James Wexler,
+                  Yanai Elazar,
                 
               
             
@@ -294,119 +321,7 @@
             
               
                 
-                  Jasmijn Bastings,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Tolga Bolukbasi,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Andy Coenen,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Sebastian Gehrmann,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Ellen Jiang,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Mahima Pushkarna,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Carey Radebaugh,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  Emily Reif,
-                
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
-                
-                  and Ann Yuan
+                  and Dan Roth
                 
               
             
@@ -416,7 +331,7 @@
 
       <div class="periodical">
       
-        <em>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, </em>
+        <em>In Findings of the Association for Computational Linguistics: EMNLP, </em>
       
       
         2020
@@ -429,45 +344,148 @@
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
     
     
-      <a href="http://arxiv.org/abs/2008.05122" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+      <a href="http://arxiv.org/abs/2010.05345" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     
     
       
-      <a href="https://www.aclweb.org/anthology/2020.emnlp-demos.15" class="btn btn-sm z-depth-0" role="button" target="_blank">EMNLP 2020</a>
+      <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.439" class="btn btn-sm z-depth-0" role="button" target="_blank">Findings of EMNLP 2020</a>
       
     
     
     
     
     
-      <a href="https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
-    
-    
-      <a href="https://github.com/PAIR-code/lit" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
     
     
     
-    
-      <a href="https://pair-code.github.io/lit/" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
     
     </div>
 
     <!-- Hidden abstract block -->
     
     <div class="abstract hidden">
-      <p>We present the Language Interpretability Tool (LIT), an open-source platform for visualization and understanding of NLP models. We focus on core questions about model behavior: Why did my model make this prediction? When does it perform poorly? What happens under a controlled change in the input? LIT integrates local explanations, aggregate analysis, and counterfactual generation into a streamlined, browser-based interface to enable rapid exploration and error analysis. We include case studies for a diverse set of workflows, including exploring counterfactuals for sentiment analysis, measuring gender bias in coreference systems, and exploring local behavior in text generation. LIT supports a wide range of models—including classification, seq2seq, and structured prediction—and is highly extensible through a declarative, framework-agnostic API. LIT is under active development, with code and full documentation available at https://github.com/pair-code/lit.</p>
+      <p>Pretrained Language Models (LMs) have been shown to possess significant linguistic, common sense and factual knowledge. One form of knowledge that has not been studied yet in this context is information about the scalar magnitudes of objects. We show that pretrained language models capture a significant amount of this information but are short of the capability required for general common-sense reasoning. We identify contextual information in pre-training and numeracy as two key factors affecting their performance, and show that a simple method of canonicalizing numbers can have a significant effect on the results.</p>
     </div>
     
   </div>
 </div>
 </li>
-<li><div class="row">
-  <div class="col-sm-2 abbr">
-  
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
     
-    <abbr class="badge"><a href="https://www.aclweb.org/anthology/P19-1452/" target="_blank">ACL</a></abbr>
+      <img class="img-thumbnail" src="/assets/img/finetune-figure2.png" alt="What Happens To BERT Embeddings During Fine-tuning?" />
     
-  
+  </div>
+
+  <div id="merchant2020happens" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2004.14448.pdf" target="_blank"><div class="title">What Happens To BERT Embeddings During Fine-tuning?</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Amil Merchant,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Elahe Rahimtoroghi,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Ellie Pavlick,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                and <em>Ian Tenney</em>
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Proceedings of the Third BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP, </em>
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2004.14448" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
+    
+      
+      <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.4" class="btn btn-sm z-depth-0" role="button" target="_blank">BlackboxNLP 2020</a>
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>While much recent work has examined how linguistic information is encoded in pre-trained sentence representations, comparatively little is understood about how these models change when adapted to solve downstream tasks. Using a suite of analysis techniques—supervised probing, unsupervised similarity analysis, and layer-based ablations—we investigate how fine-tuning affects the representations of the BERT model. We find that while fine-tuning necessarily makes some significant changes, there is no catastrophic forgetting of linguistic phenomena. We instead find that fine-tuning is a conservative process that primarily affects the top layers of BERT, albeit with noteworthy variation across tasks. In particular, dependency parsing reconfigures most of the model, whereas SQuAD and MNLI involve much shallower processing. Finally, we also find that fine-tuning has a weaker effect on representations of out-of-domain sentences, suggesting room for improvement in model generalization.</p>
+    </div>
+    
+  </div>
+</div>
+</li>
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
+    
+      <img class="img-thumbnail" src="/assets/img/bert-by-layer.png" alt="BERT Rediscovers the Classical NLP Pipeline" />
+    
   </div>
 
   <div id="tenney2019bert" class="col-sm-8">
@@ -566,13 +584,11 @@
   </div>
 </div>
 </li>
-<li><div class="row">
-  <div class="col-sm-2 abbr">
-  
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
     
-    <abbr class="badge"><a href="https://openreview.net/forum?id=SJzSgnRcKX" target="_blank">ICLR</a></abbr>
+      <img class="img-thumbnail" src="/assets/img/edge-probing.png" alt="What do you learn from context? Probing for sentence structure in contextualized word representations" />
     
-  
   </div>
 
   <div id="tenney2019what" class="col-sm-8">
@@ -785,9 +801,6 @@
 </li></ol>
 </div>
 
-    
-
-    
   </article>
 
 </div>

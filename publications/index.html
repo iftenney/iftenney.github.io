@@ -147,17 +147,17 @@
     <div class="publications">
 
 
-  <h2 class="year">2021</h2>
+  <h2 class="year">2022</h2>
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
   
     
-    <abbr class="badge"><a href="https://arxiv.org/abs/2106.16163" target="_blank">arXiv</a></abbr>
+    <abbr class="badge"><a href="https://openreview.net/forum?id=K0E_F0gFDgA" target="_blank">ICLR</a></abbr>
     
   
   </div>
 
-  <div id="sellam2021multiberts" class="col-sm-8">
+  <div id="sellam2022multiberts" class="col-sm-8">
     
       
         <a href="https://arxiv.org/pdf/2106.16163.pdf" target="_blank"><div class="title">The MultiBERTs: BERT Reproductions for Robustness Analysis</div></a>
@@ -188,6 +188,18 @@
                 
                   Steve Yadlowsky,
                 
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                <em>Ian Tenney</em>,
               
             
           
@@ -311,18 +323,6 @@
           
             
               
-                <em>Ian Tenney</em>,
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
                 
                   and Ellie Pavlick
                 
@@ -334,10 +334,10 @@
 
       <div class="periodical">
       
-        <em>arXiv preprint, </em>
+        <em>ICLR (spotlight), </em>
       
       
-        2021
+        2022
       
       </div>
     
@@ -349,6 +349,10 @@
     
       <a href="http://arxiv.org/abs/2106.16163" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     
+    
+      
+      <a href="https://openreview.net/forum?id=K0E_F0gFDgA" class="btn btn-sm z-depth-0" role="button" target="_blank">ICLR 2022</a>
+      
     
     
     
@@ -365,7 +369,7 @@
     <!-- Hidden abstract block -->
     
     <div class="abstract hidden">
-      <p>Experiments with pretrained models such as BERT are often based on a single checkpoint. While the conclusions drawn apply to the artifact (i.e., the particular instance of the model), it is not always clear whether they hold for the more general procedure (which includes the model architecture, training data, initialization scheme, and loss function). Recent work has shown that re-running pretraining can lead to substantially different conclusions about performance, suggesting that alternative evaluations are needed to make principled statements about procedures. To address this question, we introduce MultiBERTs: a set of 25 BERT-base checkpoints, trained with similar hyper-parameters as the original BERT model but differing in random initialization and data shuffling. The aim is to enable researchers to draw robust and statistically justified conclusions about pretraining procedures. The full release includes 25 fully trained checkpoints, as well as statistical guidelines and a code library implementing our recommended hypothesis testing methods. Finally, for five of these models we release a set of 28 intermediate checkpoints in order to support research on learning dynamics.</p>
+      <p>Experiments with pre-trained models such as BERT are often based on a single checkpoint. While the conclusions drawn apply to the artifact tested in the experiment (i.e., the particular instance of the model), it is not always clear whether they hold for the more general procedure which includes the architecture, training data, initialization scheme, and loss function. Recent work has shown that repeating the pre-training process can lead to substantially different performance, suggesting that an alternative strategy is needed to make principled statements about procedures. To enable researchers to draw more robust conclusions, we introduce MultiBERTs, a set of 25 BERT-Base checkpoints, trained with similar hyper-parameters as the original BERT model but differing in random weight initialization and shuffling of training data. We also define the Multi-Bootstrap, a non-parametric bootstrap method for statistical inference designed for settings where there are multiple pre-trained models and limited test data. To illustrate our approach, we present a case study of gender bias in coreference resolution, in which the Multi-Bootstrap lets us measure effects that may not be detected with a single checkpoint. The models and statistical library are available online, along with an additional set of 140 intermediate checkpoints captured during pre-training to facilitate research on learning dynamics.</p>
     </div>
     
   </div>
@@ -3431,11 +3435,11 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021 Ian  Tenney.
+    &copy; Copyright 2022 Ian  Tenney.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
-    Last updated: July 12, 2021.
+    Last updated: February 09, 2022.
     
   </div>
 </footer>

@@ -19,6 +19,8 @@ body.sticky-bottom-footer { padding-bottom: 0; }
 
 .main-text-content img { height: 1rem; width: 1rem; display: inline-block; vertical-align: text-top; margin-right: 2px; }
 
+img.inline-icon { height: 1rem; width: 1rem; display: inline-block; vertical-align: text-top; margin-right: 2px; }
+
 .profile img { width: 100%; }
 
 .first-name { font-weight: 500; }
@@ -80,9 +82,9 @@ span.nobreak { display: inline-block; }
 .navbar-toggler.collapsed .middle-bar { opacity: 1; }
 .navbar-toggler.collapsed .bottom-bar { transform: rotate(0); }
 
-.news table td { font-size: 1rem; color: var(--global-text-color); }
+.news table td { font-size: 1rem; line-height: 1.5rem; color: var(--global-text-color); }
 
-.news table th { color: var(--global-text-color); }
+.news table th { font-size: 0.9rem; line-height: 1.5rem; color: var(--global-text-color); }
 
 .social { text-align: center; }
 .social .contact-icon { font-size: 4rem; }

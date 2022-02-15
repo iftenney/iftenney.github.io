@@ -84,7 +84,7 @@ span.nobreak { display: inline-block; }
 
 .news table td { font-size: 1rem; line-height: 1.5rem; color: var(--global-text-color); }
 
-.news table th { font-size: 0.9rem; line-height: 1.5rem; color: var(--global-text-color); }
+.news table th { font-size: 0.9rem; line-height: 1.5rem; color: var(--global-text-color); padding-right: 1.0rem; }
 
 .social { text-align: center; }
 .social .contact-icon { font-size: 4rem; }

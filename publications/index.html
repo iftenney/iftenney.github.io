@@ -147,6 +147,150 @@
     <div class="publications">
 
 
+  <h2 class="year">2023</h2>
+  <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge"><a href="https://arxiv.org/abs/2303.08114" target="_blank">arXiv</a></abbr>
+    
+  
+  </div>
+
+  <div id="guu2023simfluence" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2303.08114.pdf" target="_blank"><div class="title">Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Kelvin Guu,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Albert Webson,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Ellie Pavlick,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Lucas Dixon,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                <em>Ian Tenney</em>,
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  and Tolga Bolukbasi
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>arXiv preprint, </em>
+      
+      
+        2023
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2303.08114" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
+    
+    
+    
+    
+    
+      <a href="https://twitter.com/kelvin_guu/status/1637835146874478592" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Training data attribution (TDA) methods offer to trace a model’s prediction on any given example back to specific influential training examples. Existing approaches do so by assigning a scalar influence score to each training example, under a simplifying assumption that influence is additive. But in reality, we observe that training examples interact in highly non-additive ways due to factors such as inter-example redundancy, training order, and curriculum learning effects.
+To study such interactions, we propose Simfluence, a new paradigm for TDA where the goal is not to produce a single influence score per example, but instead a training run simulator: the user asks, “If my model had trained on example z1, then z2, ..., then zn, how would it behave on ztest?”; the simulator should then output a simulated training run, which is a time series predicting the loss on ztest at every step of the simulated run. This enables users to answer counterfactual questions about what their model would have learned under different training curricula, and to directly see where in training that learning would occur.
+We present a simulator, Simfluence-Linear, that captures non-additive interactions and is often able to predict the spiky trajectory of individual example losses with surprising fidelity. Furthermore, we show that existing TDA methods such as TracIn and influence functions can be viewed as special cases of Simfluence-Linear. This enables us to directly compare methods in terms of their simulation accuracy, subsuming several prior TDA approaches to evaluation. In experiments on large language model (LLM) fine-tuning, we show that our method predicts loss trajectories with much higher accuracy than existing TDA methods (doubling Spearman’s correlation and reducing mean-squared error by 75%) across several tasks, models, and training methods.</p>
+    </div>
+    
+  </div>
+</div>
+</li></ol>
+
   <h2 class="year">2022</h2>
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-2 abbr">
@@ -286,6 +430,9 @@
     
     
     
+      <a href="https://twitter.com/akyurekekin/status/1529281791194185730" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
+    
+    
     
     
     
@@ -383,6 +530,9 @@
     
     
     
+    
+    
+      <a href="https://twitter.com/bvp22294/status/1449076657281593345" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
     
     
     
@@ -611,7 +761,8 @@
     
     
     
-      <a href="https://github.com/google-research/language/tree/master/language/multiberts" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/google-research/language/tree/master/language/multiberts" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
     
@@ -773,6 +924,7 @@
     
     
       <a href="http://arxiv.org/abs/2010.06032" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
     
     
     
@@ -992,10 +1144,11 @@
     
     
     
+    
       <a href="https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
     
     
-      <a href="https://github.com/PAIR-code/lit" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+      <a href="https://github.com/PAIR-code/lit" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
       
@@ -1096,6 +1249,7 @@
       
       <a href="https://www.aclweb.org/anthology/2020.emnlp-main.552" class="btn btn-sm z-depth-0" role="button" target="_blank">EMNLP 2020</a>
       
+    
     
     
     
@@ -1232,6 +1386,7 @@
     
     
     
+    
     </div>
 
     <!-- Hidden abstract block -->
@@ -1336,6 +1491,7 @@
       
       <a href="https://www.aclweb.org/anthology/2020.blackboxnlp-1.4" class="btn btn-sm z-depth-0" role="button" target="_blank">BlackboxNLP 2020</a>
       
+    
     
     
     
@@ -1511,7 +1667,8 @@
     
     
     
-      <a href="https://github.com/nyu-mll/jiant" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/nyu-mll/jiant" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
     
@@ -1616,7 +1773,8 @@
     
     
     
-      <a href="https://github.com/nyu-mll/jiant-v1-legacy/tree/master/probing" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/nyu-mll/jiant-v1-legacy/tree/master/probing" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
       
@@ -1833,7 +1991,8 @@
     
     
     
-      <a href="https://github.com/nyu-mll/jiant#papers" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/nyu-mll/jiant#papers" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
     
@@ -2046,7 +2205,8 @@
     
     
     
-      <a href="https://github.com/nyu-mll/jiant#papers" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/nyu-mll/jiant#papers" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
     
@@ -2259,7 +2419,8 @@
     
     
     
-      <a href="https://github.com/nyu-mll/jiant-v1-legacy/tree/master/probing" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/nyu-mll/jiant-v1-legacy/tree/master/probing" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
       
@@ -2380,7 +2541,8 @@
     
     
     
-      <a href="https://github.com/google-research-datasets/wiki-atomic-edits" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
+    
+      <a href="https://github.com/google-research-datasets/wiki-atomic-edits" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
     
@@ -2482,6 +2644,7 @@
     
 
     <div class="links">
+    
     
     
     
@@ -3080,6 +3243,7 @@
     
     
     
+    
     </div>
 
     <!-- Hidden abstract block -->
@@ -3555,6 +3719,7 @@
     
     
     
+    
     </div>
 
     <!-- Hidden abstract block -->
@@ -3666,6 +3831,7 @@
     
     
     
+    
     </div>
 
     <!-- Hidden abstract block -->
@@ -3687,11 +3853,11 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2022 Ian  Tenney.
+    &copy; Copyright 2023 Ian  Tenney.
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
-    Last updated: November 06, 2022.
+    Last updated: April 03, 2023.
     
   </div>
 </footer>

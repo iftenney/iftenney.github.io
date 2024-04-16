@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Ian  Tenney | Interpretability & Visualization Tools</title>
+<meta name="description" content="Ian Tenney's personal website.
+">
+
+<!-- Open Graph -->
+
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="/assets/css/jekyll-pygments-themes-github.css" />
+
+<!-- Styles -->
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/projects/viz/">
+
+<!-- Theming-->
+
+  <script src="/assets/js/theme.js"></script>
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RPS0P4NJ1V"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-RPS0P4NJ1V');
+  </script>
+
+
+    
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      <a class="navbar-brand title font-weight-lighter" href="/">
+        
+  <span class="first-name">Ian</span>  <span class="last-name">Tenney</span>
+
+
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/projects/">
+                projects
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                publications
+                
+              </a>
+          </li>
+          
+          
+          
+            <div class = "toggle-container">
+              <a id = "light-toggle">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+              </a>
+            </div>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Interpretability & Visualization Tools</h1>
+    <p class="post-description">Visualize, inspect, and debug behavior of LLMs and other ML models.</p>
+  </header>
+
+  <article>
+    <div class="publications">
+  <ol class="bibliography"><li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
+    
+      <img class="img-thumbnail" src="/assets/img/seqsal-hero.png" alt="Interactive Prompt Debugging with Sequence Salience" />
+    
+  </div>
+
+  <div id="tenney2024interactive" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2404.07498.pdf" target="_blank"><div class="title">Interactive Prompt Debugging with Sequence Salience</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                <em>Ian Tenney</em>,
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Ryan Mullins,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Bin Du,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Shree Pandya,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Minsuk Kahng,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  and Lucas Dixon
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>arXiv preprint, </em>
+      
+      
+        2024
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2404.07498" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
+    
+    
+    
+    
+    
+    
+      <a href="https://ai.google.dev/responsible/model_behavior" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
+    
+    
+      <a href="https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lit_gemma.ipynb" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
+    
+    
+    
+    
+      <a href="https://goo.gle/sequence-salience" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>We present Sequence Salience, a visual tool for interactive prompt debugging with input salience methods. Sequence Salience builds on widely used salience methods for text classification and single-token prediction, and extends this to a system tailored for debugging complex LLM prompts. Our system is well-suited for long texts, and expands on previous work by 1) providing controllable aggregation of token-level salience to the word, sentence, or paragraph level, making salience over long inputs tractable; and 2) supporting rapid iteration where practitioners can act on salience results, refine prompts, and run salience on the new output. We include case studies showing how Sequence Salience can help practitioners work with several complex prompting strategies, including few-shot, chain-of-thought, and constitutional principles. Sequence Salience is built on the Learning Interpretability Tool, an open-source platform for ML model visualizations, and code, notebooks, and tutorials are available at http://goo.gle/sequence-salience.</p>
+    </div>
+    
+  </div>
+</div>
+</li>
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
+    
+      <img class="img-thumbnail" src="/assets/img/llm-comparator-figure1.png" alt="LLM Comparator: Visual Analytics for Side-by-Side Evaluation of Large Language Models" />
+    
+  </div>
+
+  <div id="kahng2024llm" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2402.10524.pdf" target="_blank"><div class="title">LLM Comparator: Visual Analytics for Side-by-Side Evaluation of Large Language Models</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Minsuk Kahng,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                <em>Ian Tenney</em>,
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Mahima Pushkarna,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Michael Xieyang Liu,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  James Wexler,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Emily Reif,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Krystal Kallarackal,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Minsuk Chang,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Michael Terry,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  and Lucas Dixon
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>CHI Late-Breaking Work, </em>
+      
+      
+        2024
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2402.10524" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
+    
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Automatic side-by-side evaluation has emerged as a promising approach to evaluating the quality of responses from large language models (LLMs). However, analyzing the results from this evaluation approach raises scalability and interpretability challenges. In this paper, we present LLM Comparator, a novel visual analytics tool for interactively analyzing results from automatic side-by-side evaluation. The tool supports interactive workflows for users to understand when and why a model performs better or worse than a baseline model, and how the responses from two models are qualitatively different. We iteratively designed and developed the tool by closely working with researchers and engineers at a large technology company. This paper details the user challenges we identified, the design and development of the tool, and an observational study with participants who regularly evaluate their models.</p>
+    </div>
+    
+  </div>
+</div>
+</li>
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
+    
+      <img class="img-thumbnail" src="/assets/img/lit-emb-projector-3.png" alt="The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models" />
+    
+  </div>
+
+  <div id="tenney2020lit" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2008.05122.pdf" target="_blank"><div class="title">The Language Interpretability Tool: Extensible, Interactive Visualizations and Analysis for NLP Models</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                <em>Ian Tenney</em>,
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  James Wexler,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Jasmijn Bastings,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Tolga Bolukbasi,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Andy Coenen,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Sebastian Gehrmann,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Ellen Jiang,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Mahima Pushkarna,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Carey Radebaugh,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Emily Reif,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  and Ann Yuan
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, </em>
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2008.05122" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    
+    
+      
+      <a href="https://www.aclweb.org/anthology/2020.emnlp-demos.15" class="btn btn-sm z-depth-0" role="button" target="_blank">EMNLP 2020</a>
+      
+    
+    
+    
+    
+    
+    
+      <a href="https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
+    
+    
+      <a href="https://github.com/PAIR-code/lit" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
+    
+    
+      
+      <a href="/assets/pdf/lit-poster-emnlp-2020.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>
+      
+    
+    
+    
+      <a href="https://pair-code.github.io/lit/" class="btn btn-sm z-depth-0" role="button" target="_blank">Website</a>
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>We present the Language Interpretability Tool (LIT), an open-source platform for visualization and understanding of NLP models. We focus on core questions about model behavior: Why did my model make this prediction? When does it perform poorly? What happens under a controlled change in the input? LIT integrates local explanations, aggregate analysis, and counterfactual generation into a streamlined, browser-based interface to enable rapid exploration and error analysis. We include case studies for a diverse set of workflows, including exploring counterfactuals for sentiment analysis, measuring gender bias in coreference systems, and exploring local behavior in text generation. LIT supports a wide range of models—including classification, seq2seq, and structured prediction—and is highly extensible through a declarative, framework-agnostic API. LIT is under active development, with code and full documentation available at https://github.com/pair-code/lit.</p>
+    </div>
+    
+  </div>
+</div>
+</li></ol>
+</div>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2024 Ian  Tenney.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+    Last updated: April 15, 2024.
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+  <!-- Bootsrap & MDB scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
+
+  
+
+  
+
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+<!-- Load DarkMode JS -->
+<script src="/assets/js/dark_mode.js"></script>
+
+
+</html>

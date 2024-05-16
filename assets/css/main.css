@@ -92,6 +92,7 @@ img.inline-icon {
  * Publications
  ******************************************************************************/
 .publications .badge {
+  width: 100px;
   white-space: normal;
 }
 

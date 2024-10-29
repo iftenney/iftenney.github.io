@@ -144,6 +144,130 @@
   <ol class="bibliography"><li><div class="row bib-card">
   <div class="col-sm mt-3 mt-md-0">
     
+      <img class="img-thumbnail" src="/assets/img/pretraining-tracin-paper-figure1.png" alt="Scalable Influence and Fact Tracing for Large Language Model Pretraining" />
+    
+  </div>
+
+  <div id="chang2024tda" class="col-sm-8">
+    
+      
+        <a href="https://arxiv.org/pdf/2410.17413.pdf" target="_blank"><div class="title">Scalable Influence and Fact Tracing for Large Language Model Pretraining</div></a>
+      
+      <div class="author">
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Tyler A. Chang,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Dheeraj Rajagopal,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Tolga Bolukbasi,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                
+                  Lucas Dixon,
+                
+              
+            
+          
+        
+          <!--  -->
+          
+          
+          
+          
+            
+              
+                and <em>Ian Tenney</em>
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>arXiv preprint, </em>
+      
+      
+        2024
+      
+      </div>
+    
+
+    <div class="links">
+    
+      <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
+    
+    
+      <a href="http://arxiv.org/abs/2410.17413" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="far fa-file"></i>arXiv</a>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+    <div class="abstract hidden">
+      <p>Training data attribution (TDA) methods aim to attribute model outputs back to specific training examples, and the application of these methods to large language model (LLM) outputs could significantly advance model transparency and data curation. However, it has been challenging to date to apply these methods to the full scale of LLM pretraining. In this paper, we refine existing gradient-based methods to work effectively at scale, allowing us to retrieve influential examples for an 8B-parameter language model from a pretraining corpus of over 160B tokens with no need for subsampling or pre-filtering. Our method combines several techniques, including optimizer state correction, a task-specific Hessian approximation, and normalized encodings, which we find to be critical for performance at scale. In quantitative evaluations on a fact tracing task, our method performs best at identifying examples that influence model predictions, but classical, model-agnostic retrieval methods such as BM25 still perform better at finding passages which explicitly contain relevant facts. These results demonstrate a misalignment between factual attribution and causal influence. With increasing model size and training tokens, we find that influence more closely aligns with attribution. Finally, we examine different types of examples identified as influential by our method, finding that while many directly entail a particular fact, others support the same output by reinforcing priors on relation types, common entities, and names.</p>
+    </div>
+    
+  </div>
+</div>
+</li>
+<li><div class="row bib-card">
+  <div class="col-sm mt-3 mt-md-0">
+    
       <img class="img-thumbnail" src="/assets/img/simfluence-2a.png" alt="Simfluence: Modeling the Influence of Individual Training Examples by Simulating Training Runs" />
     
   </div>
@@ -460,7 +584,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
-    Last updated: June 01, 2024.
+    Last updated: October 28, 2024.
     
   </div>
 </footer>

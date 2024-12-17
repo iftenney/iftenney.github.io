@@ -201,6 +201,16 @@
       
       
         <tr>
+          <th scope="row">Dec&nbsp;13,&nbsp;2024</th>
+          <td>
+            
+              New blog post &amp; preprint on <a href="https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da">Scaling Training Data Attribution</a> to understand what data an LLM learned from during open-domain pretraining. We’ve also released the <a href="https://github.com/PAIR-code/pretraining-tda">dataset</a> along with a <a href="https://pair-code.github.io/pretraining-tda/demo">web-based demo</a> to explore influential examples for a variety of queries.
+
+            
+          </td>
+        </tr>
+      
+        <tr>
           <th scope="row">May&nbsp;16,&nbsp;2024</th>
           <td>
             
@@ -215,18 +225,6 @@
           <td>
             
               New preprint! <a href="https://arxiv.org/abs/2404.07498">Interactive Prompt Debugging with Sequence Salience</a> goes into more detail on the prompt debugging tool we previously released for Gemma. Sequence Salience now works for Mistral and Llama 2, and features a more in-depth tutorial at <a href="http://goo.gle/sequence-salience">goo.gle/sequence-salience</a>.
-
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <th scope="row">Feb&nbsp;21,&nbsp;2024</th>
-          <td>
-            
-              <a href="https://github.com/PAIR-code/lit/releases/tag/v1.1"><img class="inline-image" src="/assets/img/fire_emoji.png" />LIT v1.1</a> featured in <a href="https://blog.google/technology/developers/gemma-open-models/">The Keyword</a> as the debugging tool for the new <a href="https://ai.google.dev/gemma/">Gemma</a> family of open models from Google.
-
-As part of the <a href="https://ai.google.dev/responsible">Responsible Generative AI Toolkit</a>, use the new <a href="https://ai.google.dev/responsible/model_behavior">sequence salience</a> feature to debug complex LLM prompts, such as few-shot, chain-of-thought, or constitutions. Try it in Colab here: <a href="https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lit_gemma.ipynb">Using LIT to Analyze Gemma Models in Keras</a>
 
             
           </td>
@@ -276,7 +274,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
       </div>
       
       <div class="card-body">
-        <h2 class="card-title">Training-Data Attribution</h2>
+        <h2 class="card-title">Training Data Attribution</h2>
         <p class="card-text">Understanding model behavior by finding training examples that influence a particular prediction.</p>
         <div class="row ml-1 mr-1 p-0">
           
@@ -317,14 +315,14 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
   <ol class="bibliography"><li><div class="row bib-card">
   <div class="col-sm mt-3 mt-md-0">
     
-      <img class="img-thumbnail" src="/assets/img/seqsal-hero.png" alt="Interactive Prompt Debugging with Sequence Salience">
+      <img class="img-thumbnail" src="/assets/img/pretraining-tda-demo.png" alt="Scalable Influence and Fact Tracing for Large Language Model Pretraining">
     
   </div>
 
-  <div id="tenney2024interactive" class="col-sm-8">
+  <div id="chang2024tda" class="col-sm-8">
     
       
-        <a href="https://arxiv.org/pdf/2404.07498.pdf" target="_blank"><div class="title">Interactive Prompt Debugging with Sequence Salience</div></a>
+        <a href="https://arxiv.org/pdf/2410.17413.pdf" target="_blank"><div class="title">Scalable Influence and Fact Tracing for Large Language Model Pretraining</div></a>
       
       <div class="author">
         
@@ -335,20 +333,8 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
           
             
               
-                <em>Ian Tenney</em>,
-              
-            
-          
-        
-          <!--  -->
-          
-          
-          
-          
-            
-              
                 
-                  Ryan Mullins,
+                  Tyler A. Chang,
                 
               
             
@@ -362,7 +348,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
             
               
                 
-                  Bin Du,
+                  Dheeraj Rajagopal,
                 
               
             
@@ -376,7 +362,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
             
               
                 
-                  Shree Pandya,
+                  Tolga Bolukbasi,
                 
               
             
@@ -390,7 +376,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
             
               
                 
-                  Minsuk Kahng,
+                  Lucas Dixon,
                 
               
             
@@ -403,9 +389,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
           
             
               
-                
-                  and Lucas Dixon
-                
+                and <em>Ian Tenney</em>
               
             
           
@@ -427,34 +411,39 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
       <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
     
     
-      <a href="http://arxiv.org/abs/2404.07498" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="far fa-file"></i>arXiv</a>
+      <a href="http://arxiv.org/abs/2410.17413" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="far fa-file"></i>arXiv</a>
     
     
     
     
     
     
-      <a href="https://twitter.com/googledevs/status/1760348744900301282" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
+      <a href="https://bsky.app/profile/tylerachang.bsky.social/post/3ld7hmptt2s2a" class="btn btn-sm z-depth-0" role="button" target="_blank">Bluesky</a>
     
     
-      <a href="https://ai.google.dev/responsible/model_behavior" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-rss"></i>Blog</a>
+      <a href="https://x.com/tylerachang/status/1867641227023368216" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
+    
+    
+      <a href="https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-rss"></i>Blog</a>
+    
+    
+      <a href="https://github.com/PAIR-code/pretraining-tda" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
+    
+    
+      <a href="https://github.com/PAIR-code/pretraining-tda" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-list"></i>Dataset</a>
+    
+    
+      <a href="https://pair-code.github.io/pretraining-tda/demo/" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-desktop"></i>Demo</a>
     
     
     
-    
-      <a href="https://colab.research.google.com/github/google/generative-ai-docs/blob/main/site/en/gemma/docs/lit_gemma.ipynb" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-desktop"></i>Demo</a>
-    
-    
-    
-    
-      <a href="https://goo.gle/sequence-salience" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-link"></i>Website</a>
     
     </div>
 
     <!-- Hidden abstract block -->
     
     <div class="abstract hidden">
-      <p>We present Sequence Salience, a visual tool for interactive prompt debugging with input salience methods. Sequence Salience builds on widely used salience methods for text classification and single-token prediction, and extends this to a system tailored for debugging complex LLM prompts. Our system is well-suited for long texts, and expands on previous work by 1) providing controllable aggregation of token-level salience to the word, sentence, or paragraph level, making salience over long inputs tractable; and 2) supporting rapid iteration where practitioners can act on salience results, refine prompts, and run salience on the new output. We include case studies showing how Sequence Salience can help practitioners work with several complex prompting strategies, including few-shot, chain-of-thought, and constitutional principles. Sequence Salience is built on the Learning Interpretability Tool, an open-source platform for ML model visualizations, and code, notebooks, and tutorials are available at http://goo.gle/sequence-salience.</p>
+      <p>Training data attribution (TDA) methods aim to attribute model outputs back to specific training examples, and the application of these methods to large language model (LLM) outputs could significantly advance model transparency and data curation. However, it has been challenging to date to apply these methods to the full scale of LLM pretraining. In this paper, we refine existing gradient-based methods to work effectively at scale, allowing us to retrieve influential examples for an 8B-parameter language model from a pretraining corpus of over 160B tokens with no need for subsampling or pre-filtering. Our method combines several techniques, including optimizer state correction, a task-specific Hessian approximation, and normalized encodings, which we find to be critical for performance at scale. In quantitative evaluations on a fact tracing task, our method performs best at identifying examples that influence model predictions, but classical, model-agnostic retrieval methods such as BM25 still perform better at finding passages which explicitly contain relevant facts. These results demonstrate a misalignment between factual attribution and causal influence. With increasing model size and training tokens, we find that influence more closely aligns with attribution. Finally, we examine different types of examples identified as influential by our method, finding that while many directly entail a particular fact, others support the same output by reinforcing priors on relation types, common entities, and names.</p>
     </div>
     
   </div>
@@ -640,6 +629,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
     
     
     
+    
       <a href="https://twitter.com/minsukkahng/status/1790812002157228448" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
     
     
@@ -780,6 +770,7 @@ As part of the <a href="https://ai.google.dev/responsible">Responsible Generativ
     
     
       <a href="http://arxiv.org/abs/2303.08114" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="far fa-file"></i>arXiv</a>
+    
     
     
     
@@ -1018,6 +1009,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     
     
     
+    
       <a href="https://github.com/google-research/language/tree/master/language/multiberts" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
@@ -1231,6 +1223,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     
     
     
+    
       <a href="https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-rss"></i>Blog</a>
     
     
@@ -1337,6 +1330,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
       
       <a href="https://www.aclweb.org/anthology/P19-1452/" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="far fa-file"></i>ACL 2019</a>
       
+    
     
     
     
@@ -1562,6 +1556,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     
     
     
+    
       <a href="https://github.com/nyu-mll/jiant-v1-legacy/tree/master/probing" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
@@ -1604,7 +1599,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
-    Last updated: October 28, 2024.
+    Last updated: December 16, 2024.
     
   </div>
 </footer>

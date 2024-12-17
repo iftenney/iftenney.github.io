@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Ian  Tenney | Training-Data Attribution</title>
+<title>Ian  Tenney | Training Data Attribution</title>
 <meta name="description" content="Ian Tenney's personal website.
 ">
 
@@ -135,16 +135,22 @@
       <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Training-Data Attribution</h1>
+    <h1 class="post-title">Training Data Attribution</h1>
     <p class="post-description">Understanding model behavior by finding training examples that influence a particular prediction.</p>
   </header>
 
   <article>
-    <div class="publications">
+    <p>Training Data Attribution (TDA) aims to explain model behavior in terms of back to specific examples from the data it was trained on. For classification or another supervised task this might be labeled (input, output) pairs, while for a language model these could be segments of running text from the pretraining corpus.</p>
+
+<p>In theory, data attribution could be computed by simply making a change to the training set - such as removing an example - then re-training the model and seeing how it’s behavior changes. This is prohibitively expensive, however, so TDA methods allow us to approximate this in an efficient manner.</p>
+
+<!-- Historically, TDA methods such as [influence functions](https://arxiv.org/abs/1703.04730) have been derived from a leave-one-out objective - how would removing this specific example change the behavior? - although more [recent](https://arxiv.org/abs/1905.13289) [studies](https://arxiv.org/abs/2111.04683) have shown that other objectives - such as group ablations, or a notion of semantic attribution - are both easier to approximate and more useful in practice. -->
+
+<div class="publications">
   <ol class="bibliography"><li><div class="row bib-card">
   <div class="col-sm mt-3 mt-md-0">
     
-      <img class="img-thumbnail" src="/assets/img/pretraining-tracin-paper-figure1.png" alt="Scalable Influence and Fact Tracing for Large Language Model Pretraining" />
+      <img class="img-thumbnail" src="/assets/img/pretraining-tda-demo.png" alt="Scalable Influence and Fact Tracing for Large Language Model Pretraining" />
     
   </div>
 
@@ -247,9 +253,22 @@
     
     
     
+      <a href="https://bsky.app/profile/tylerachang.bsky.social/post/3ld7hmptt2s2a" class="btn btn-sm z-depth-0" role="button" target="_blank">Bluesky</a>
     
     
+      <a href="https://x.com/tylerachang/status/1867641227023368216" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
     
+    
+      <a href="https://medium.com/people-ai-research/scaling-training-data-attribution-f7d1eddd85da" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-rss"></i>Blog</a>
+    
+    
+      <a href="https://github.com/PAIR-code/pretraining-tda" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
+    
+    
+      <a href="https://github.com/PAIR-code/pretraining-tda" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-list"></i>Dataset</a>
+    
+    
+      <a href="https://pair-code.github.io/pretraining-tda/demo/" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-desktop"></i>Demo</a>
     
     
     
@@ -379,6 +398,7 @@
     
     
       <a href="http://arxiv.org/abs/2303.08114" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="far fa-file"></i>arXiv</a>
+    
     
     
     
@@ -543,6 +563,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     
     
     
+    
       <a href="https://twitter.com/akyurekekin/status/1529281791194185730" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fab fa-twitter"></i>Thread</a>
     
     
@@ -550,7 +571,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
       <a href="https://github.com/ekinakyurek/influence" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-code"></i>Code</a>
     
     
-      <a href="https://huggingface.co/datasets/ekinakyurek/ftrace" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-table-list"></i>Dataset</a>
+      <a href="https://huggingface.co/datasets/ekinakyurek/ftrace" class="btn btn-sm z-depth-0" role="button" target="_blank"><i class="fas fa-list"></i>Dataset</a>
     
     
     
@@ -584,7 +605,7 @@ We present a simulator, Simfluence-Linear, that captures non-additive interactio
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
-    Last updated: October 28, 2024.
+    Last updated: December 16, 2024.
     
   </div>
 </footer>
